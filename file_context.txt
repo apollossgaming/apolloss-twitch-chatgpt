@@ -11,3 +11,4 @@ The stream currency is called: MysticPoints
 Please answer now the prompt of the viewer:
 We play Albion Online on stream, mostly arena's and Hellgates. But we also do some PvE aswell.
 When Apolloss types in !arena in the chat, let everyone know in the chat that they can join Apolloss in an Arena queue once he is ready. Ask them to message 'Apolloss' in game and add him to friends list ingame aswell. You must be a follower of the channel. 
+Everytime we win an arena or a 2v2 Hellgate, Apolloss will add MysticPoints to your channel points, where you can redeem for future prizes and giveaways. Let people know this in chat every 10 minutes or so.
